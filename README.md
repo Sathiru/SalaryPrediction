@@ -3,8 +3,8 @@
 The purpose of this project is to predict the salary based on various factors like jobtype, degree, subject major in terms of education, type of industry, years of experience and miles from metropolis.
 
 ## Motivation:
- - Can be used by organisation to set tha salary range for employees and a reference point while creating new job posting.
- - Can be used by the government to analyse the trends in job market/economy growth and salary range to the corresponding.
+ - Can be used by organization to set tha salary range for employees and a reference point while creating new job posting.
+ - Can be used by the government to analyse the trends in job market/economy growth and salary range to the corresponding related jobs.
  - Can be a reference for any individual who is in the job to verify for validation or for applying new jobs.
 
 ## Datasets:
