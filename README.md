@@ -120,17 +120,19 @@ The mean squared error of hyperparameter tunned model is,
 
 |   Mean Squred Error   | XGBoost |
 | -------- | -------- |
-| Hyperparameter tunned | 353.35  |
+| Hyperparameter tunned | 354.79  |
 
 ## Predicted Result:
 
 The salary is predicted after learning the data from the trained dataset. Predicted result is save under **predictedsalary_out.csv**
 
-| jobId | prediction |
-|----- | ------- |
-|     | |
-| | |
-| | |
+|  | jobId | prediction |
+|---|----- | ------- |
+| 0 |	JOB1362685407687 |	138.182236 |
+| 1	| JOB1362685407688 |	116.894569 |
+| 2 |	JOB1362685407689	| 135.585800 |
+| 3	| JOB1362685407690 |	117.391464 |
+| 4	| JOB1362685407691 |	134.771408 |
 
 ## Deployment:
 
