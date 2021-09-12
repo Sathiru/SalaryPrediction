@@ -89,7 +89,7 @@ Performed one-hot encoding for nominal categorical variable like jobType, major 
 
 ### Checked for correlation:
 
-Most of the features are positively correlated with the target variable salary and they is no evidence of muticollinearlity of correlation > 0.9, whereas milesFromMetropolis is negatively correlated with Salary.
+Most of the features are positively correlated with the target variable salary and there is no evidence of muticollinearlity of correlation > 0.9, whereas milesFromMetropolis is negatively correlated with Salary.
 
 ![image](images/corr.png)
 
